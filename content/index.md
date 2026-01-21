@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 欢迎来到华夏王的主页
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- 这里主要用于个人博客的发布。
