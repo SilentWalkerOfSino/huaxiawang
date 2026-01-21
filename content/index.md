@@ -1,9 +1,6 @@
-# 欢迎来到我的数字花园 🌱
+---
+title: Welcome to Quartz
+---
 
-这里是首页！
-
-- 这是我的 [关于页面](about)
-- 查看所有[笔记](notes)
-- 使用顶部搜索快速查找内容
-
-> Quartz 让知识管理变得简单。
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
