@@ -9,6 +9,8 @@ quartz 中页面布局设计，可以使用插件快捷的添加固定页面布�
 import ContentIndex from "./components/ContentIndex"
 ```
 
+## 命令
+- 通过`npx quartz sync`进行 git 操作，并实现内容更新
 
 ## 问题
 
